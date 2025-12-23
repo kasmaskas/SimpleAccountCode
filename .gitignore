@@ -1,0 +1,11 @@
+# Derleme (Build) dosyaları
+bin/
+obj/
+
+# Visual Studio ayarları
+.vs/
+*.user
+*.suo
+
+# VS Code ayarları
+.vscode/
