@@ -2,6 +2,9 @@
 
 A clean and straightforward C# console application for personal account management. This project focuses on the core logic of banking transactions such as depositing and withdrawing money.
 
+### 🔄 Latest Updates
+- **[Dec 25, 2025]** - **UX Flow Improvement**: Enhanced the confirmation logic. Users now remain within the transaction process if they choose "No" instead of being redirected to the main menu.
+
 ## 🌟 Features
 - **Deposit:** Add funds to your balance.
 - **Withdraw:** Securely withdraw money with an automated balance check (prevents negative balance).
