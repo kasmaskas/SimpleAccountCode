@@ -3,6 +3,9 @@
 A clean and straightforward C# console application for personal account management. This project focuses on the core logic of banking transactions such as depositing and withdrawing money.
 
 ### 🔄 Latest Updates
+- **[Dec 27, 2025]** - **Refactored Menu:** Improved control flow by implementing `switch-case` instead of `if-else`.
+- **String Formatting:** Fixed a verbatim string bug in the menu console output for a cleaner UI.
+
 - **[Dec 25, 2025]** - **UX Flow Improvement**: Enhanced the confirmation logic. Users now remain within the transaction process if they choose "No" instead of being redirected to the main menu.
 
 ## 🌟 Features
